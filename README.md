@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Alan 
 
-![alandavidhenry's Stats](https://github-readme-stats.vercel.app/api?username=alandavidhenry&theme=default&show_icons=true&hide_border=true&count_private=true)
+![alandavidhenry's Stats](https://github-readme-stats.vercel.app/api?username=alandavidhenry&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
 
-![alandavidhenry's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alandavidhenry&theme=default&show_icons=true&hide_border=true&count_private=true&layout=compact)
+![alandavidhenry's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alandavidhenry&theme=slateorange&show_icons=true&hide_border=true&count_private=true&layout=compact)
 
 ## 🚀 About Me
 - I'm a frontend developer, currently working for the Ministry of Defence.
